@@ -1,10 +1,10 @@
 There are three ways of styling components in REACT :
 
-1)External - Achieved using index.css file
+1)External - Achieved using index.css file.
 
 2)Modules - Creating a separate Module using  <name>.module.css
 
-3)Inline - Using JS objects
+3)Inline - Using JS objects.
 
 
 
